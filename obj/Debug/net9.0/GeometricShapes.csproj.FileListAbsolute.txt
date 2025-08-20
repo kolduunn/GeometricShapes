@@ -1,0 +1,14 @@
+D:\Прога\C#\GeometricShapes\bin\Debug\net9.0\GeometricShapes.exe
+D:\Прога\C#\GeometricShapes\bin\Debug\net9.0\GeometricShapes.deps.json
+D:\Прога\C#\GeometricShapes\bin\Debug\net9.0\GeometricShapes.runtimeconfig.json
+D:\Прога\C#\GeometricShapes\bin\Debug\net9.0\GeometricShapes.dll
+D:\Прога\C#\GeometricShapes\bin\Debug\net9.0\GeometricShapes.pdb
+D:\Прога\C#\GeometricShapes\obj\Debug\net9.0\GeometricShapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Прога\C#\GeometricShapes\obj\Debug\net9.0\GeometricShapes.AssemblyInfoInputs.cache
+D:\Прога\C#\GeometricShapes\obj\Debug\net9.0\GeometricShapes.AssemblyInfo.cs
+D:\Прога\C#\GeometricShapes\obj\Debug\net9.0\GeometricShapes.csproj.CoreCompileInputs.cache
+D:\Прога\C#\GeometricShapes\obj\Debug\net9.0\GeometricShapes.dll
+D:\Прога\C#\GeometricShapes\obj\Debug\net9.0\refint\GeometricShapes.dll
+D:\Прога\C#\GeometricShapes\obj\Debug\net9.0\GeometricShapes.pdb
+D:\Прога\C#\GeometricShapes\obj\Debug\net9.0\GeometricShapes.genruntimeconfig.cache
+D:\Прога\C#\GeometricShapes\obj\Debug\net9.0\ref\GeometricShapes.dll
